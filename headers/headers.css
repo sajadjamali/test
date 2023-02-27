@@ -1,5 +1,5 @@
 .form-control-dark {
-  border-color: var(--bs-gray);
+  border-color: red;
 }
 .form-control-dark:focus {
   border-color: red;
